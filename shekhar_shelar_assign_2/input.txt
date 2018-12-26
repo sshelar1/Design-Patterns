@@ -1,0 +1,12 @@
+add 2 cars to north
+add 5 cars to east
+add 7 cars to north
+add 4 cars to west
+add 6 cars to south
+turn west green
+turn south green
+add 4 cars to south
+turn north green
+turn west green
+turn east green
+turn south green

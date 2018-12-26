@@ -1,0 +1,10 @@
+State Changed from : North to : West
+State Changed from : West to : South
+State Changed from : South to : North
+State Changed from : North to : West
+State Changed from : West to : East
+State Changed from : East to : South
+3 remaining in East side
+7 remaining in North side
+6 remaining in South side
+0 remaining in West side
